@@ -2,3 +2,7 @@
 devLog.txt
 src/util/dummy.js
 src/components/API/config.js
+
+# Local Netlify folder
+.netlify
+node_modules

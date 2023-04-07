@@ -88,6 +88,10 @@ export default function DocEditPage({
               title: tempDoc.title,
               content: tempDoc.content,
             });
+
+            setListScrollPos({ calculate: "current "});
+            push(this.state);
+            local.removeItem(docTempSaveKey)
             return;
           }
         } else {

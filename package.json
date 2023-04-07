@@ -1,0 +1,23 @@
+{
+  "name": "fedc3-simple_notion_vanillajs",
+  "version": "1.0.0",
+  "description": "- Auto save content - Add, delete, and edit notes - Create nested notes - Dark/Light Mode toggle - Quick link to nested notes (in progress) - Rich text editor options (in progress) ## Layout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fly1chop/FEDC3-Simple_Notion_VanillaJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fly1chop/FEDC3-Simple_Notion_VanillaJS/issues"
+  },
+  "homepage": "https://github.com/fly1chop/FEDC3-Simple_Notion_VanillaJS#readme",
+  "devDependencies": {
+    "netlify-cli": "^12.2.7"
+  }
+}
